@@ -20,7 +20,6 @@ Install with "Package Control" (```ctrl/cmd + shift + p -> Package Control: Inst
 - LESS
 - MarkdownPreview
 - nginx
-- Package Control
 - PackageSync
 - PlainTasks
 - Pretty JSON
